@@ -81,4 +81,7 @@ It has been tested on various Android devices and performs efficiently across di
 
 ![WhatsApp Image 2024-08-26 at 23 13 19_93599ec3](https://github.com/user-attachments/assets/a6613c68-baec-463f-a99d-e9724cc95997)
 
+# LICENSE
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
