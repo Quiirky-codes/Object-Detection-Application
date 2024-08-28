@@ -33,19 +33,22 @@ cd object-detection-app
 ```
 
 2. Open the Project in Android Studio
-  * Launch Android Studio and select "Open an existing project."
+   
+    * Launch Android Studio and select "Open an existing project."
     
-  * Navigate to the cloned repository and open the project.
+    * Navigate to the cloned repository and open the project.
 
 3. Build the Project
-   * Sync the project with Gradle files.
    
-   * Build the project to ensure all dependencies are installed.
+     * Sync the project with Gradle files.
+   
+     * Build the project to ensure all dependencies are installed.
 
-4. Run the Application
-   * Connect your Android device or start an emulator.
+5. Run the Application
    
-   * Click on the "Run" button in Android Studio to install and launch the app on your device.
+     * Connect your Android device or start an emulator.
+   
+     * Click on the "Run" button in Android Studio to install and launch the app on your device.
 
 # Model
 
